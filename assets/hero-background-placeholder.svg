@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-label="Placeholder hero background">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f2a24" />
+      <stop offset="55%" stop-color="#504337" />
+      <stop offset="100%" stop-color="#1a1816" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)" />
+  <g fill="none" stroke="#d6be95" stroke-opacity="0.22">
+    <path d="M0 830 C480 690, 890 910, 1400 740 S2000 750, 1920 860" />
+    <path d="M0 900 C460 820, 940 1020, 1460 900 S2010 930, 1920 1020" />
+  </g>
+  <text x="60" y="140" fill="#f5ece0" font-family="Inter, Arial, sans-serif" font-size="44" opacity="0.78">
+    HERO BACKGROUND PLACEHOLDER
+  </text>
+</svg>
