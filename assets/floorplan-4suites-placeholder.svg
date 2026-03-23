@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Placeholder planta 4 suítes">
+  <rect width="1200" height="800" fill="#f5efe2" />
+  <rect x="100" y="100" width="1000" height="600" fill="#fffdf8" stroke="#907a57" stroke-width="8" />
+  <g fill="none" stroke="#907a57" stroke-width="5">
+    <rect x="140" y="140" width="220" height="240" />
+    <rect x="390" y="140" width="220" height="240" />
+    <rect x="640" y="140" width="220" height="240" />
+    <rect x="890" y="140" width="170" height="240" />
+    <rect x="140" y="410" width="390" height="250" />
+    <rect x="560" y="410" width="500" height="250" />
+  </g>
+  <text x="140" y="78" fill="#574933" font-family="Inter, Arial, sans-serif" font-size="36">
+    PLANTA 4 SUÍTES PLACEHOLDER
+  </text>
+</svg>
